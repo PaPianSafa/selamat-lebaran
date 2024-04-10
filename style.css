@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #BFEA7C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}s
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #416D19;
+    color: #FFF67E;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #416D19;
+    color: #FFF67E;
+    font-size: 16px;
+}
+
+footer {
+    justify-content: center;
+    text-align: center  ;
+}
